@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://devyoung.gitee.io/xcodesoucecontrol/capacity.ipa</string>
+					<string>https://github.com/Mrchenwc/Myipa/raw/master/capacity.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://gitee.com/DevYoung/MXFootBall</string>
+					<string>https://github.com/Mrchenwc/Myipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://gitee.com/DevYoung/MXFootBall</string>
+					<string>https://github.com/Mrchenwc/Myipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>

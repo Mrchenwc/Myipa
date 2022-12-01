@@ -13,18 +13,6 @@
 					<key>url</key>
 					<string>https://qs-dev.oss-cn-beijing.aliyuncs.com/Shadowrocket-2.1.11.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://github.com/Mrchenwc/Myipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://github.com/Mrchenwc/Myipa</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
